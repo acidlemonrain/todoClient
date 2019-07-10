@@ -2298,3 +2298,10 @@
 /*!******************************************************************************!*\
   !*** external {"commonjs":"vue","commonjs2":"vue","amd":"vue","root":"Vue"} ***!
   \******************************************************************************/
+
+/*!
+ * Chart.js v2.8.0
+ * https://www.chartjs.org
+ * (c) 2019 Chart.js Contributors
+ * Released under the MIT License
+ */
